@@ -14,9 +14,9 @@
 * $python3 serverBonus.py
 * $python3 clientBonus.py
 
-#Basic Command Structure : 
-$indexGet flag [start-time] [end-time] bonus
-*Note : Time stamp format -> Standard format for modified time .
+### Basic Command Structure : 
+* $indexGet flag [start-time] [end-time] bonus
+* Note : Time stamp format -> Standard format for modified time .
 
 ## Possible Commands : 
 -$indexGet shortlist <startime> <endtime> 
