@@ -1,16 +1,16 @@
 # Instructions for running the source codes .
 
-# Part 1 : Bonus Part 
+## Part 1 : Bonus Part 
 
 *Note : The bonus functions of IndexGet() are implemented seperately , they have their own serverBonus.py and clientBonus.py. 
         Codes are available in Bonus-IndexGet folder.
 
-#Requirements :
+## Requirements :
  - Python 3+ 
  - Socket API
  - General Libraries - os,sys,csv,regex.
  
-#Commands :
+## Commands :
 * $python3 serverBonus.py
 * $python3 clientBonus.py
 
@@ -18,7 +18,7 @@
 $indexGet flag [start-time] [end-time] bonus
 *Note : Time stamp format -> Standard format for modified time .
 
-# Possible Commands : 
+## Possible Commands : 
 -$indexGet shortlist <startime> <endtime> 
 -$indexGet shortlist <starttime> <endtime> .txt/.pdf (Select one extenstion)
 -$indexGet longlist
